@@ -4,7 +4,7 @@
 
 &nbsp;
 
-- 📚 Atualmente estou estudando HTML, CSS e Boostrap
+- 📚 Atualmente estou estudando HTML, CSS e JS
 - 💼 Estou em busca da minha primeira experiência profissional na área.
 - 📫 Entre em contato pelas redes sociais ou e-mail: matheusrochaboy@hotmail.com
 - ⚡ Hobbies - Assistir Futebol - Jogar videogame.

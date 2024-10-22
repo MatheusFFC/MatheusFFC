@@ -4,9 +4,8 @@
 
 &nbsp;
 
-- 📚 Atualmente estou estudando ReactJS, TailWind e outras ferramentas.
+- 📚 Atualmente estou estudando HTML, CSS e Boostrap
 - 💼 Estou em busca da minha primeira experiência profissional na área.
-- 💬 Possuo conhecimento em HTML5, CSS3, JavaScript e Bootstrap.
 - 📫 Entre em contato pelas redes sociais ou e-mail: matheusrochaboy@hotmail.com
 - ⚡ Hobbies - Assistir Futebol - Jogar videogame.
 
